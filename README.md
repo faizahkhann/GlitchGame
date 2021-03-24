@@ -4,7 +4,7 @@
 
 Submitted by: Faizah Khan
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 Link to project: https://glitch.com/edit/#!/grave-spicy-parmesan?path=script.js%3A114%3A3
 
@@ -44,6 +44,7 @@ https://imgur.com/a/Rk9uxqe
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 W3 Schools 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
